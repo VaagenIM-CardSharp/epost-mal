@@ -1,7 +1,9 @@
 body {
     background-color: #218047;
+    text-align: center;
 }
 
 footer {
     text-align: center;
+    line-height: 0.2;
 }
