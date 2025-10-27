@@ -1,9 +1,21 @@
 body {
-    background-color: #218047;
+    background-color: #219951;
     text-align: center;
+    max-width: 50%;
+    margin: auto;
 }
 
 footer {
     text-align: center;
     line-height: 0.2;
+}
+
+.wrapper {
+    background-color: #218047;
+    padding: 20px;
+
+    border-radius: 15px; /* Rounds the corners */
+    font-family: sans-serif;
+    color: #333; /* Text color */
+    text-align: center; /* Center the text */
 }
